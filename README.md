@@ -21,7 +21,7 @@ This project implements a custom Transformer architecture for machine translatio
 
 1. Clone the repository:
     ```
-    git clone <repository_url>
+    git clone <https://github.com/HAKIM-ML/Machine-Translation>
     ```
 2. Install the required packages:
     ```
